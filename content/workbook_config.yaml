@@ -1,0 +1,5 @@
+workbook:
+  candidate_filename: Enterprise_Medallion_Layer_Starter_Kit_Candidate.xlsx
+  source_dir: workbook/source
+  dist_dir: workbook/dist
+  releases_dir: workbook/releases
