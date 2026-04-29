@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Workbook build outputs
+workbook/dist/*.xlsx
+workbook/releases/*.xlsx
+
+# Temporary Excel files
+~$*.xlsx
